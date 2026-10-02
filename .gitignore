@@ -1,0 +1,4 @@
+*.pdf
+*.gguf
+medical_db/
+.ipynb_checkpoints/
